@@ -63,5 +63,7 @@ public class PruebaPersona {
         
         
         persona1.mostrarMensaje();
+        
+        System.out.println("Prueba :v");
     }
 }
